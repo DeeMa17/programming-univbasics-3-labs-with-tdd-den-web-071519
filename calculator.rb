@@ -1,7 +1,7 @@
-class ./calculator.rb do
+class calculator.rb do
 end
 
-describe ./calculator.rb do
+describe calculator.rb do
   first_number == x
   second_number == y
   x != 0 
