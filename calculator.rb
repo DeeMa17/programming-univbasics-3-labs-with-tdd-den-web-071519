@@ -8,8 +8,6 @@ describe calculator.rb do
   second_number == y
   x != 0 
   y != 0 
-  
-end 
   x + y
   x - y
   x * y
