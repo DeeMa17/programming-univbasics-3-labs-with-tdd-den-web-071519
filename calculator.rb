@@ -10,8 +10,6 @@ describe calculator.rb do
   y != 0 
   
 end 
-
-  do 
   x + y
   x - y
   x * y
